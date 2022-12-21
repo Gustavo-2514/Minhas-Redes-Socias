@@ -1,0 +1,49 @@
+@media screen and (max-width:1024px) {
+    
+    .container{
+        width: 100%;
+        
+        flex-direction: column;
+        margin: 0;
+    }
+
+    
+
+    .container img{
+        width: 50%;
+    }
+
+    
+
+    .conteudo1 p{
+        letter-spacing: 5px;
+        color: white;
+        font-size: 2em;
+    }
+
+    .links{
+        flex-direction: column;
+        width: 100%;
+        font-size: 1.3em;
+        
+
+        
+    }
+
+
+    .links i{
+        margin-right: 20px;
+        text-decoration: none;
+        
+    }
+
+    .instagram{
+        margin-bottom: 20%;
+    }
+
+    
+    .conteudo2{
+        font-size: 1.3em;
+    }
+
+}
